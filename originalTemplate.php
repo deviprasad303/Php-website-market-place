@@ -11,9 +11,12 @@
 
 <body>
 <div class="container">
+
 	<?php
           include("header.php");
 ?>
+
+</div>
 
     <div class="maincontent">
  <!-- main content goes here-->

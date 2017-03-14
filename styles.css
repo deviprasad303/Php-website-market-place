@@ -4,7 +4,7 @@
 	padding:0px;	
 }
 body {
-	background-image:url(images/imageback.jpg);
+
 	font-family:Arial, Helvetica, sans-serif;
 }
 p {
@@ -17,11 +17,11 @@ p {
 	margin-right:auto;
 }
 .header {
-	width:999px;
-	height:100px;
-	border-bottom-width:1px;
-	border-bottom-color:#FFF;
-	border-bottom-style:solid;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 .pagination a {
     float: right;

@@ -1,10 +1,8 @@
 <div class="header">
-    	<div class="logo" >
-        <a href="originaltemplate2.php"><img src="images/logo.PNG" alt="Company logo" /></a>
-        </div><!--logo ends-->
-		<div class="navigation">
-		<p>Links go here
-        <a href="admin.php">Admin</a>
-        </p>
-      </div><!--navigation ends-->
+  <a href="new2.php">Home</a>
+  <a href="new2.php">News</a>
+  <a href="new2.php">Contact</a>
+  <a href="new2.php">About</a>
+  <a href="new2.php">User</a>
+
 	</div><!-- Header ends here-->
